@@ -33,7 +33,7 @@ SOCIAL_MEDIA = {
     "Twitter": "https://twitter.com/LahiruSenavira5?s=09",
 }
 PROJECTS = {
-    "👩‍💻 A Full-stack Food Ordering Apps made in Flutter with Firebase": "https://youtu.be/PT4ipPYW5Jo?si=fb07Q3iRAAC2R36y",
+    "👨‍💻 A Full-stack Food Ordering Apps made in Flutter with Firebase": "https://youtu.be/PT4ipPYW5Jo?si=fb07Q3iRAAC2R36y",
     "👩‍💻 Point-Of-Sale (POS) Systems For Inventory Management System": "https://youtu.be/TJRgU1c-1rw?si=SuTby5CTOVtQMqWC",
     "👩‍💻 3D Modern Portfolio Web Application ": "https://youtu.be/uj98U-oLDo0?si=dExjVEyQtNfBv_mc",
     "👩‍💻 Responsive Garbage Collection Web-Site": "https://youtu.be/5fubYeKQP94?si=eEWIDx1SlIb-r7xx",
@@ -96,12 +96,12 @@ st.subheader("⏩Experience & Qulifications⏪")
 st.write("---")
 st.write(
     """
-- ✔️ 2+ Years expereince extracting Full-Stack Software Development.
-- ✔️ Proficient understanding of Artificial Intelligent and its diverse applications.
-- ✔️ Good understanding of Machine Learning and their respective applications.
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks.
-- ✔️ Strong hands on experience and knowledge in Java , Python , Php , Dart and MERN.
-- ✔️ Comprehensive knowledge of trend programming content creation YouTube chanel .
+-    ✔️ 2+ Years expereince extracting Full-Stack Software Development.
+-    ✔️ Proficient understanding of Artificial Intelligent and its diverse applications.
+-    ✔️ Good understanding of Machine Learning and their respective applications.
+-    ✔️ Excellent team-player and displaying strong sense of initiative on tasks.
+-    ✔️ Strong hands on experience and knowledge in Java , Python , Php , Dart and MERN.
+-    ✔️ Comprehensive knowledge of trend programming content creation YouTube chanel .
 """
 )
 
@@ -112,10 +112,10 @@ st.subheader("⏩Hard Skills⏪")
 st.write("---")
 st.write(
     """
-- 👩‍💻 <font color='lightgreen'>Programming:</font> Java , Python , C# , C++ , PHP , Dart , MERN,  SQL,
-- 📊 <font color='lightgreen'>Data Visulization:</font> Tableau , Matplotlib , Plotly
-- 📚 <font color='lightgreen'>Modeling:</font> Python , R , TensorFlow , Pytorch
-- 🗄️ <font color='lightgreen'>Databases:</font> Postgres, MongoDB, MySQL , SQLite
+-    👩‍💻  <font color='lightgreen'>Programming:</font> Java , Python , C# , C++ , PHP , Dart , MERN,  SQL,
+-    📊  <font color='lightgreen'>Data Visulization:</font> Tableau , Matplotlib , Plotly
+-    📚  <font color='lightgreen'>Modeling:</font> Python , R , TensorFlow , Pytorch
+-    🗄️  <font color='lightgreen'>Databases:</font> Postgres, MongoDB, MySQL , SQLite
 """
 , unsafe_allow_html=True)
 
@@ -127,7 +127,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("👨‍💻", "**Software Engineer | [<font color='yellow'>Sri Lanka Institute of Biotechnology (SLIBTEC)</font>](https://slibtec.gov.lk/)**", unsafe_allow_html=True)
-st.write("🔵 December - 2023 ➖ Present")
+st.write("-  🔵 December - 2023 ➖ Present")
 st.write(
     """
 - 🔶 Proficient in multiple programming languages like Python, Java, or C++, adept at designing and developing scalable software solutions.
@@ -141,7 +141,7 @@ st.write(
 # --- JOB 2
 st.write('\n')
 st.write("👨‍💻", "**Mobile Application Developer | [<font color='yellow'>CodeAlpha · Part-time </font>](https://www.codealpha.tech/)**", unsafe_allow_html=True)
-st.write("🔵 January - 2024 ➖ Present")
+st.write("-  🔵 January - 2024 ➖ Present")
 st.write(
     """
 - 🔶 Skilled in mobile app development for iOS and Android platforms, utilizing tools like Swift, Kotlin, or React Native to create intuitive user experiences.
@@ -155,7 +155,7 @@ st.write(
 # --- JOB 3
 st.write('\n')
 st.write("👨‍💻", "**Software Engineer | [<font color='yellow'>Prodigy InfoTech · Part-time</font>](https://prodigyinfotech.dev/)**", unsafe_allow_html=True)
-st.write("🔵 January - 2024 ➖ Present")
+st.write("-  🔵 January - 2024 ➖ Present")
 st.write(
     """
 - 🔶 Proficiency in designing and implementing robust software solutions using languages like Python, Java, or C++, coupled with in-depth knowledge of frameworks like Django or Spring.
@@ -169,7 +169,7 @@ st.write(
 # --- JOB 4
 st.write('\n')
 st.write("👨‍💻", "**Full-stack Developer | [<font color='yellow'>Bharat Intern · Part-time</font>](https://bharatintern.live/)**", unsafe_allow_html=True)
-st.write("🔵 January - 2024 ➖ Present")
+st.write("-  🔵 January - 2024 ➖ Present")
 st.write(
     """
 - 🔶 Proficient in both front-end and back-end development, utilizing technologies like JavaScript, React, Node.js, and databases such as MongoDB or MySQL to create dynamic web applications.
@@ -184,7 +184,7 @@ st.write(
 # --- JOB 5
 st.write('\n')
 st.write("👨‍💻", "**YouTuber | [<font color='yellow'>YouTube · Freelance</font>](https://www.youtube.com/channel/UCEcQ2x422yrxqGAoKZ7s1-Q)**", unsafe_allow_html=True)
-st.write("🔵 January - 2021 ➖ Present")
+st.write("-  🔵 January - 2021 ➖ Present")
 st.write(
     """
 - 🔶 Specializes in creating engaging and informative content, focusing on programming tutorials and technology reviews to educate and entertain viewers.
@@ -203,7 +203,9 @@ st.write("---")
 for project, link in PROJECTS.items():
 
     #st.write(f"[{project}]({link})")
-    st.write(f"<font color='lightgreen'>{project}<br></font>🛑 {link}", unsafe_allow_html=True)
+    #st.write(f"<font color='lightgreen'>👨‍💻{project}<br></font>🛑 {link}", unsafe_allow_html=True)
+    st.write(f"<font color='lightgreen'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{project}<br></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛑 {link}",
+             unsafe_allow_html=True)
 
     #st.markdown(f"<font color='blue'>{DESCRIPTION}</font>", unsafe_allow_html=True)
 
