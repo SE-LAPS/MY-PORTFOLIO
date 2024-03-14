@@ -1,6 +1,6 @@
 <center><h2>⏪ Digital CV ⏩</h2></center>
 <br>
-<a href="https://lahirusenavirathna.streamlit.app/">😍Visit My Website👉</a>
+<a href="https://lahirusenavirathna.streamlit.app/">🌐 Visit My Website</a>
 
 <br>
 
