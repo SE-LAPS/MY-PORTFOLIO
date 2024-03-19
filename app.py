@@ -140,6 +140,21 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
+st.write("👨‍💻", "**Data Science Enthusiast | [<font color='yellow'>Cognifyz Technologies · Part-time </font>](https://cognifyz.com/)**", unsafe_allow_html=True)
+st.write("-  🔵 January - 2024 ➖ Present")
+st.write(
+    """
+- 🔶 Collect, preprocess, and analyze large datasets to extract valuable insights and patterns.
+- 🔶 Implement and scale machine learning solutions using programming languages such as Python or R.  
+- 🔶 Design and develop machine learning models to address business challenges and enhance decision-making processes.
+- 🔶 Stay updated on emerging technologies and best practices to continually improve the performance and efficiency of machine learning systems.
+- 🔶 Collaborate with data scientists and software engineers to deploy, maintain, and optimize machine learning algorithms in production environments.
+
+"""
+)
+
+# --- JOB 3
+st.write('\n')
 st.write("👨‍💻", "**Mobile Application Developer | [<font color='yellow'>CodeAlpha · Part-time </font>](https://www.codealpha.tech/)**", unsafe_allow_html=True)
 st.write("-  🔵 January - 2024 ➖ Present")
 st.write(
@@ -152,7 +167,7 @@ st.write(
 """
 )
 
-# --- JOB 3
+# --- JOB 4
 st.write('\n')
 st.write("👨‍💻", "**Software Engineer | [<font color='yellow'>Prodigy InfoTech · Part-time</font>](https://prodigyinfotech.dev/)**", unsafe_allow_html=True)
 st.write("-  🔵 January - 2024 ➖ Present")
@@ -166,7 +181,7 @@ st.write(
 """
 )
 
-# --- JOB 4
+# --- JOB 5
 st.write('\n')
 st.write("👨‍💻", "**Full-stack Developer | [<font color='yellow'>Bharat Intern · Part-time</font>](https://bharatintern.live/)**", unsafe_allow_html=True)
 st.write("-  🔵 January - 2024 ➖ Present")
@@ -181,7 +196,7 @@ st.write(
 )
 
 
-# --- JOB 5
+# --- JOB 6
 st.write('\n')
 st.write("👨‍💻", "**YouTuber | [<font color='yellow'>YouTube · Freelance</font>](https://www.youtube.com/channel/UCEcQ2x422yrxqGAoKZ7s1-Q)**", unsafe_allow_html=True)
 st.write("-  🔵 January - 2021 ➖ Present")
